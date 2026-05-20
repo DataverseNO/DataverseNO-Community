@@ -16,6 +16,6 @@
 | University of Stavanger | uis |
 | VID Specialized University | vid |
 | Western Norway University of Applied Sciences | hvl |
-| Østfold University College | hiof |
+| Østfold University of Applied Sciences | hiof |
 | Other institutions | root |
 | TROLLing | trolling |
